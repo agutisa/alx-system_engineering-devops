@@ -1,2 +1,3 @@
 #!/bin/bash
-cat /etc/passwd
+grep -oP '^[^:]+|.*:\K[^:]+(?=:[^:]+)' /etc/passwd | perl -pe 's/\n/ : / if $.%2'
+
