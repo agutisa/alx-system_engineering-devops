@@ -1,2 +1,12 @@
 when i type google.com in the chrome web browser, 
 it takes me to the google main page which has the main search engine
+
+what happens when you type https://www.google.com in your browser
+TCP/IP- Transmission Control Protocol (TCP) determines the way the content of a server is served, or delivered.
+TCP is usually used to deliver static websites such as Wikipedia or Google and also email services and to download files to your computer because TCP makes sure that all the content that is needed gets delivered.
+FIREWALL- this will come into play to control traffic on the network.
+HTTPs- used to initiate a secure connection
+LOAD BALANCER- directs traffic to all available server for that website
+WEB SERVER- the one that serves web pages.
+APPLICATION SERVERS - which are the ones that hold an application base code that will then be used to interact with a web browser or other applications.
+DATABASE SERVERS- are the ones that hold a database that can be updated and consulted when needed.
